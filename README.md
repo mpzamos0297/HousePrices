@@ -13,13 +13,15 @@ This project is part of the Final Project – Machine Learning Course. it is a h
 - Apply concepts learned throughout the course—data preprocessing, feature engineering, model training, and evaluation—to build the best-performing predictive model.
 - Advanced regression techniques like random forest and gradient boosting
 - Complete clear and concise analysist of the results
+
+  
 **👥 Team**
 
-Wendy Velasques
-Maria de los Angeles Rojas 
-Maria Zamora 
+-Wendy Velasques
+-Maria de los Angeles Rojas 
+-Maria Zamora 
 
-💼 **What to expect in our project? **
+** 💼What to expect in our project? **
 
 1. Problem Understanding & great analysis 
   Define the prediction task.
